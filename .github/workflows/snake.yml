@@ -15,20 +15,20 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      # Iconos Lucide (licencia ISC) recoloreados en azul para el README
+      # Iconos Lucide (licencia ISC) recoloreados en azul; va antes de snk porque su contenedor deja dist/ como root
       - name: Iconos
         run: |
           mkdir -p dist/icons
           for i in user graduation-cap flask-conical bug network atom briefcase book-open trophy mic rocket wrench chart-column activity; do
             curl -fsSL "https://cdn.jsdelivr.net/npm/lucide-static@0.460.0/icons/$i.svg" | sed 's/currentColor/#58a6ff/g' > "dist/icons/$i.svg"
           done
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -41,6 +41,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
