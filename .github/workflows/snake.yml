@@ -1,4 +1,4 @@
-name: Generar serpiente de contribuciones
+name: Actualizar perfil (serpiente, iconos y estadísticas)
 
 on:
   schedule:
@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  snake-e-iconos:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -22,9 +22,27 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # Iconos Lucide (licencia ISC) recoloreados en azul para el README
+      - name: Iconos
+        run: |
+          mkdir -p dist/icons
+          for i in user graduation-cap flask-conical bug network atom briefcase book-open trophy mic rocket wrench chart-column activity; do
+            curl -fsSL "https://cdn.jsdelivr.net/npm/lucide-static@0.460.0/icons/$i.svg" | sed 's/currentColor/#58a6ff/g' > "dist/icons/$i.svg"
+          done
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  estadisticas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
