@@ -6,12 +6,13 @@
 <!-- Texto con efecto de máquina de escribir: readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/62Andrew48">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9AB7&center=true&vCenter=true&width=620&lines=Estudiante+de+8.%C2%B0+semestre+de+Ingenier%C3%ADa+de+Sistemas;Investigador+del+Semillero+SEINSOFT+%C2%B7+Grupo+LOGICIEL;Coautor+de+MilkFlow+y+Decisioning;Documentaci%C3%B3n+t%C3%A9cnica%2C+historias+de+usuario+y+pruebas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2C9AB7&center=true&vCenter=true&width=760&lines=Estudiante+de+8.%C2%B0+semestre+de+Ingenier%C3%ADa+de+Sistemas;Investigador+del+Semillero+SEINSOFT+%C2%B7+Grupo+LOGICIEL;Coautor+de+MilkFlow+y+Anal%C3%ADtica+Predictiva+Offline;Documentaci%C3%B3n+t%C3%A9cnica%2C+historias+de+usuario+y+pruebas" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-garc%C3%A9s-campo-945558401"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002428680"><img src="https://img.shields.io/badge/CvLAC-Minciencias-1F6FEB?style=for-the-badge&logo=bookstack&logoColor=white" alt="CvLAC" /></a>
   <a href="mailto:felipegarces2468@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://x.com/AndrsGarcs60834"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/andrew_felipe246"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -23,26 +24,27 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/user.svg" width="22" alt="" /> Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** (8.° semestre) en la **Fundación Universitaria de Popayán** y **Técnico en Sistemas** del SENA.
-- 🔬 Integrante del **Semillero de Investigación SEINSOFT** — Grupo **LOGICIEL**; me gradúo por la modalidad de **Trayectoria de Investigación**.
-- 🧪 Mi fuerte: **documentación técnica, historias de usuario y pruebas funcionales (QA)** de los productos del semillero.
-- 🧱 Trabajo con **MVC**, **principios SOLID** y programación orientada a objetos.
-- ⚛️ Me interesan la **computación cuántica** (QWorld QBronze/QNickel) y la gestión del conocimiento personal.
+- <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/graduation-cap.svg" width="18" alt="" /> Estudiante de **Ingeniería de Sistemas** (8.° semestre) en la **Fundación Universitaria de Popayán** y **Técnico en Sistemas** del SENA.
+- <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/flask-conical.svg" width="18" alt="" /> Integrante del **Semillero de Investigación SEINSOFT** — Grupo **LOGICIEL**; me gradúo por la modalidad de **Trayectoria de Investigación**.
+- <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/bug.svg" width="18" alt="" /> Mi fuerte: **documentación técnica, historias de usuario y pruebas funcionales (QA)** de los productos del semillero.
+- <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/network.svg" width="18" alt="" /> Trabajo con **MVC**, **principios SOLID** y programación orientada a objetos.
+- <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/briefcase.svg" width="18" alt="" /> En la **Contraloría Municipal de Popayán** co-desarrollé **SIGPJ** (Flutter, Supabase, Firebase): requerimientos IEEE 830, prototipo y frontend.
+- <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/atom.svg" width="18" alt="" /> Me interesan la **computación cuántica** (QWorld QBronze/QNickel) y la gestión del conocimiento personal.
 
-### 📚 Investigación
+### <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/book-open.svg" width="22" alt="" /> Investigación
 
 | Proyecto | Qué es | Mi rol | Estado |
 |---|---|---|---|
-| **Decisioning / Appweb** | Gestión académica con analítica predictiva offline para una institución educativa indígena rural (Inzá, Cauca) | Coautor · documentación · tester | Aceptado en **JIIHC 2026** (Talca, Chile) |
+| **Analítica predictiva offline para escuelas rurales indígenas** | Gestión académica con analítica predictiva offline para una institución educativa indígena rural (Inzá, Cauca) | Coautor · documentación · tester | Aceptado en **JIIHC 2026** (Talca, Chile) |
 | **MilkFlow** | Monitoreo lechero inteligente con IoT y aprendizaje automático | Coautor · documentación · historias de usuario | **CACIED 2025** · Registro **DNDA** 13-106-307 |
 | **Egresados 360 FUP** | Plataforma de seguimiento a egresados | Coautor · documentación | Registro DNDA en trámite |
 | **SolarIQ** | Proyecto conjunto SEINSOFT (FUP) + SenAutronic (SENA) | Documentador | En desarrollo |
 
-🏆 **Talento FUP «Semilleros que Inspiran»** (2025) · 🎤 Ponente en Safaris Tech 2026, IX Encuentro de Semilleros FUP, CACIED 2025 y SENSE 2025.
+<img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/trophy.svg" width="18" alt="" /> **Talento FUP «Semilleros que Inspiran»** (2025) · <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/mic.svg" width="18" alt="" /> Ponente en Safaris Tech 2026, IX Encuentro de Semilleros FUP, CACIED 2025 y SENSE 2025.
 
-### 🚀 Repositorios destacados
+### <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/rocket.svg" width="22" alt="" /> Repositorios destacados
 
 | Repositorio | Descripción | Tecnología |
 |---|---|---|
@@ -51,7 +53,7 @@
 | [Proyecto_Tienda_Electronica](https://github.com/62Andrew48/Proyecto_Tienda_Electronica) | Tienda electrónica del curso de Arquitectura de Software: POO, principios SOLID e interfaz en NetBeans | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | [Empresa](https://github.com/62Andrew48/Empresa) | Trabajo de programación orientada a objetos | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
-### 🛠️ Tecnologías
+### <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/wrench.svg" width="22" alt="" /> Tecnologías
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -59,7 +61,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -72,18 +77,22 @@
   <img src="https://img.shields.io/badge/MVC-2C5364?style=flat-square" alt="MVC" />
   <img src="https://img.shields.io/badge/SOLID-2C5364?style=flat-square" alt="SOLID" />
   <img src="https://img.shields.io/badge/QA%20%2F%20Testing-2C5364?style=flat-square&logo=testinglibrary&logoColor=white" alt="QA" />
+  <img src="https://img.shields.io/badge/IEEE%20830-2C5364?style=flat-square" alt="IEEE 830" />
   <img src="https://img.shields.io/badge/ISO%2FIEC%2025010-2C5364?style=flat-square" alt="ISO 25010" />
   <img src="https://img.shields.io/badge/Documentaci%C3%B3n%20t%C3%A9cnica-2C5364?style=flat-square&logo=readthedocs&logoColor=white" alt="Documentación" />
 </p>
 
-### 📊 Estadísticas
+### <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/chart-column.svg" width="22" alt="" /> Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=62Andrew48&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" alt="Estadísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=62Andrew48&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes" />
+  <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Resumen del perfil" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Estadísticas" />
+  <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Lenguajes" />
 </p>
 
-### 🐍 Contribuciones
+### <img src="https://raw.githubusercontent.com/62Andrew48/62Andrew48/output/icons/activity.svg" width="22" alt="" /> Contribuciones
 
 <p align="center">
   <picture>
